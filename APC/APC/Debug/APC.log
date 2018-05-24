@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\tmax\mytest\apc\apc\main.cpp(70): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  APC.vcxproj -> D:\Tmax\MyTest\APC\Debug\APC.exe

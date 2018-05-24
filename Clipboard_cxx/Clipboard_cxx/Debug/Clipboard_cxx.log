@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\tmax\mytest\clipboard_cxx\clipboard_cxx\main.cpp(27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Clipboard_cxx.vcxproj -> D:\Tmax\MyTest\Clipboard_cxx\Debug\Clipboard_cxx.exe
